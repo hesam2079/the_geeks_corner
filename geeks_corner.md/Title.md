@@ -1,4 +1,9 @@
-	authers ...
+---
+title: "markdwon to website"
+permalink: /
+layout: default
+---
+ 	authers ...
 	date
 	journal or conference name
 ---
